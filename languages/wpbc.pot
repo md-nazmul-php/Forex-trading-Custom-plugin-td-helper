@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-26 17:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description of the plugin
+msgid "This plugin to create custom contact list-tables from database using WP_List_Table class."
+msgstr ""
+
+#: wp-basic-crud.php:149
+msgid "Edit"
+msgstr ""
+
+#: wp-basic-crud.php:150
+msgid "Delete"
+msgstr ""
+
+#: wp-basic-crud.php:172
+msgid "Name"
+msgstr ""
+
+#: wp-basic-crud.php:173
+msgid "Last Name"
+msgstr ""
+
+#: wp-basic-crud.php:174
+msgid "E-Mail"
+msgstr ""
+
+#: wp-basic-crud.php:175 wp-basic-crud.php:179
+msgid "Phone"
+msgstr ""
+
+#: wp-basic-crud.php:176
+msgid "Company"
+msgstr ""
+
+#: wp-basic-crud.php:177
+msgid "Web"
+msgstr ""
+
+#: wp-basic-crud.php:178
+msgid "Email"
+msgstr ""
+
+#: wp-basic-crud.php:180
+msgid "Job Title"
+msgstr ""
+
+#: wp-basic-crud.php:260 wp-basic-crud.php:261 includes/metabox-p1.php:17
+msgid "Contacts"
+msgstr ""
+
+#: wp-basic-crud.php:263 includes/metabox-p1.php:18
+msgid "Add new"
+msgstr ""
+
+#: wp-basic-crud.php:273
+msgid "Name is required"
+msgstr ""
+
+#: wp-basic-crud.php:274
+msgid "Last Name is required"
+msgstr ""
+
+#: wp-basic-crud.php:275
+msgid "E-Mail is in wrong format"
+msgstr ""
+
+#: wp-basic-crud.php:276
+msgid "Phone can not be less than zero"
+msgstr ""
+
+#: wp-basic-crud.php:277
+msgid "Phone must be number"
+msgstr ""
+
+#: includes/metabox-p1.php:11
+#, php-format
+msgid "Items deleted: %d"
+msgstr ""
+
+#: includes/metabox-p1.php:67
+msgid "Item was successfully saved"
+msgstr ""
+
+#: includes/metabox-p1.php:69
+msgid "There was an error while saving item"
+msgstr ""
+
+#: includes/metabox-p1.php:74
+msgid "Item was successfully updated"
+msgstr ""
+
+#: includes/metabox-p1.php:76
+msgid "There was an error while updating item"
+msgstr ""
+
+#: includes/metabox-p1.php:91
+msgid "Item not found"
+msgstr ""
+
+#: includes/metabox-p1.php:97
+msgid "Contact data"
+msgstr ""
+
+#: includes/metabox-p1.php:102
+msgid "Contact"
+msgstr ""
+
+#: includes/metabox-p1.php:103
+msgid "back to list"
+msgstr ""
+
+#: includes/metabox-p1.php:123
+msgid "Save"
+msgstr ""
+
+#: includes/metabox-p1.php:142
+msgid "Name:"
+msgstr ""
+
+#: includes/metabox-p1.php:147
+msgid "Last Name:"
+msgstr ""
+
+#: includes/metabox-p1.php:155 includes/metabox-p1.php:178
+msgid "E-Mail:"
+msgstr ""
+
+#: includes/metabox-p1.php:160 includes/metabox-p1.php:182
+msgid "Phone:"
+msgstr ""
+
+#: includes/metabox-p1.php:167
+msgid "Company:"
+msgstr ""
+
+#: includes/metabox-p1.php:171
+msgid "Web:"
+msgstr ""
+
+#: includes/metabox-p1.php:186
+msgid "Job Title:"
+msgstr ""
+
+#: includes/metabox-p1.php:193
+msgid "Address:"
+msgstr ""
+
+#: includes/metabox-p1.php:197
+msgid "Notes:"
+msgstr ""

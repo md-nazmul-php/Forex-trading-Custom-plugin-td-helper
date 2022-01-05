@@ -1,0 +1,35 @@
+.fx-table{
+  float: left;
+  font-family: Time new Roman;
+  font-size: 16px;
+  width: 100%;
+}
+.fx-header{
+
+  background-color: #0B2F45;
+  color: white;
+}
+.fx-table-header{
+
+  border-right: 1px solid;
+  text-align: center;
+  padding: 0px;
+  margin: 0px auto;
+}
+
+.fx-table-col{
+
+  text-align: center;
+  padding: 0px;
+  margin: 0px auto;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 768px) {
+.fx-table{
+  float: left;
+  font-family: Time new Roman;
+  font-size: 60%;
+  width: 100%;
+}
+}

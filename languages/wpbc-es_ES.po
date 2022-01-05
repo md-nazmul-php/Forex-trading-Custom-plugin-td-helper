@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Basic Crud\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-26 17:32+0200\n"
+"PO-Revision-Date: 2020-01-13 09:38+0000\n"
+"Last-Translator: labarta <labarta31@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid ""
+"This plugin to create custom contact list-tables from database using "
+"WP_List_Table class."
+msgstr ""
+"Este plugin crea tablas de listas de contactos personalizadas desde la base "
+"de datos usando la clase WP_List_Table."
+
+#: wp-basic-crud.php:149
+msgid "Edit"
+msgstr "Editar"
+
+#: wp-basic-crud.php:150
+msgid "Delete"
+msgstr "Eliminar"
+
+#: wp-basic-crud.php:172
+msgid "Name"
+msgstr "Nombre"
+
+#: wp-basic-crud.php:173
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: wp-basic-crud.php:174
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: wp-basic-crud.php:175 wp-basic-crud.php:179
+msgid "Phone"
+msgstr "Teléfono"
+
+#: wp-basic-crud.php:176
+msgid "Company"
+msgstr "Empresa"
+
+#: wp-basic-crud.php:177
+msgid "Web"
+msgstr "Web"
+
+#: wp-basic-crud.php:178
+msgid "Email"
+msgstr "Email"
+
+#: wp-basic-crud.php:180
+msgid "Job Title"
+msgstr "Cargo"
+
+#: wp-basic-crud.php:260 wp-basic-crud.php:261 includes/metabox-p1.php:17
+msgid "Contacts"
+msgstr "Contactos"
+
+#: wp-basic-crud.php:263 includes/metabox-p1.php:18
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: wp-basic-crud.php:273
+msgid "Name is required"
+msgstr "El nombre es requerido"
+
+#: wp-basic-crud.php:274
+msgid "Last Name is required"
+msgstr "Los apellidos son requeridos"
+
+#: wp-basic-crud.php:275
+msgid "E-Mail is in wrong format"
+msgstr "El email tiene un formato erróneo"
+
+#: wp-basic-crud.php:276
+msgid "Phone can not be less than zero"
+msgstr "El teléfono no puede ser menor que cero"
+
+#: wp-basic-crud.php:277
+msgid "Phone must be number"
+msgstr "El teléfono tiene que ser númerico"
+
+#: includes/metabox-p1.php:11
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Contactos eliminados: %d"
+
+#: includes/metabox-p1.php:67
+msgid "Item was successfully saved"
+msgstr "Contacto guardado satisfactoriamente"
+
+#: includes/metabox-p1.php:69
+msgid "There was an error while saving item"
+msgstr "Hubo un error al guardar el contacto"
+
+#: includes/metabox-p1.php:74
+msgid "Item was successfully updated"
+msgstr "Contacto actualizado satisfactoriamente"
+
+#: includes/metabox-p1.php:76
+msgid "There was an error while updating item"
+msgstr "Hubo un error al actualizar el contacto"
+
+#: includes/metabox-p1.php:91
+msgid "Item not found"
+msgstr "Contacto no encontrado"
+
+#: includes/metabox-p1.php:97
+msgid "Contact data"
+msgstr "Datos del contacto"
+
+#: includes/metabox-p1.php:102
+msgid "Contact"
+msgstr "Contacto"
+
+#: includes/metabox-p1.php:103
+msgid "back to list"
+msgstr "volver al listado"
+
+#: includes/metabox-p1.php:123
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/metabox-p1.php:142
+msgid "Name:"
+msgstr "Nombre:"
+
+#: includes/metabox-p1.php:147
+msgid "Last Name:"
+msgstr "Apellidos:"
+
+#: includes/metabox-p1.php:155 includes/metabox-p1.php:178
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: includes/metabox-p1.php:160 includes/metabox-p1.php:182
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: includes/metabox-p1.php:167
+msgid "Company:"
+msgstr "Empresa:"
+
+#: includes/metabox-p1.php:171
+msgid "Web:"
+msgstr "Web:"
+
+#: includes/metabox-p1.php:186
+msgid "Job Title:"
+msgstr "Cargo:"
+
+#: includes/metabox-p1.php:193
+msgid "Address:"
+msgstr "Dirección:"
+
+#: includes/metabox-p1.php:197
+msgid "Notes:"
+msgstr "Notas:"
