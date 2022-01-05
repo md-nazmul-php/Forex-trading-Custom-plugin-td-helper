@@ -11,8 +11,11 @@ Forex Trading portfolio table for broker website using Currency Conversion API
  Install and active the plugin you will see settings options/nav menu in your wordpress dashboard. (Please look at picture below)
 By using admin option pages you can insert, delete and update data.
 
-And the easily use shortcode into your page or post.
+And the easily use shortcode into your page or post.<br>
 
+Shortcodes: <b>Please use shortcode [td-forex-table] too display this table in your post or page.<br>
+Please use shortcode [td-crypto-table] too display this table in your post or page.</b>
+<br>
 Shortcode you will find at the currency table view page for all.
 
 Notes:
